@@ -4,7 +4,27 @@ My list of Free Open Source Software.
 
 ## Categories
 
+* [Database](#database)
+* [Games](#games)
 * [Web Server](#web-server)
+
+## Database
+
+* [jsonstore](https://github.com/bluzi/jsonstore) - [Site](https://www.jsonstore.io/)
+  * jsonstore offers a free and secured JSON-based cloud datastore for small projects.
+  * MIT License
+
+## Games
+
+* [openage](https://github.com/SFTtech/openage) - [Site](https://openage.sft.mx/]
+  * Free (as in freedom) open source clone of the Age of Empires II engine.
+  * GNU General Public License Version 3 or later
+* [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE)
+  * DUNE, REINVENTED.
+  * GNU General Public License v2.0
+* [Performous](https://github.com/performous/performous) - [Site](https://performous.org/)
+  * An open-source music and rhythm game.
+  * GNU GPLv2 or later
 
 ## Web Server
 

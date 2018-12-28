@@ -16,6 +16,9 @@ My list of Free Open Source Software.
 * [FoundationDB](https://github.com/apple/foundationdb) - [Site](https://www.foundationdb.org/)
   * FoundationDB - the open source, distributed, transactional key-value store.
   * Apache License 2.0
+* [GraphEngine](https://github.com/Microsoft/GraphEngine) - [Site](https://www.graphengine.io/)
+  * Serving big graphs in real-time.
+  * MIT License
 * [jsonstore](https://github.com/bluzi/jsonstore) - [Site](https://www.jsonstore.io/)
   * jsonstore offers a free and secured JSON-based cloud datastore for small projects.
   * MIT License

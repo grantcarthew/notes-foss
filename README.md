@@ -41,3 +41,7 @@ My list of Free Open Source Software.
 * [CMS](https://github.com/chrisdiana/cms.js) - [Site](http://chrisdiana.github.io/cms.js/)
   * Client-Side JavaScript Site Generator.
   * MIT License
+* [fossurl](https://github.com/bauripalash/fossurl)
+  * Your Own Url Shortner Without any fancy server side processing and support for custom url.
+  * MIT License
+  

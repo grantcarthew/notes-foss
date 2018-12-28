@@ -5,15 +5,26 @@ My list of Free Open Source Software.
 ## Categories
 
 * [Database](#database)
+* [Education](#education)
 * [Games](#games)
+* [Graphics](#graphics)
 * [Web Server](#web-server)
 * [Web Site](#web-site)
 
 ## Database
 
+* [FoundationDB](https://github.com/apple/foundationdb) - [Site](https://www.foundationdb.org/)
+  * FoundationDB - the open source, distributed, transactional key-value store.
+  * Apache License 2.0
 * [jsonstore](https://github.com/bluzi/jsonstore) - [Site](https://www.jsonstore.io/)
   * jsonstore offers a free and secured JSON-based cloud datastore for small projects.
   * MIT License
+
+## Education
+
+* [veyon](https://github.com/veyon/veyon) - [Site](https://veyon.io/)
+  * Cross-platform computer monitoring and classroom management.
+  * GNU General Public License v2.0
 
 ## Games
 
@@ -26,6 +37,12 @@ My list of Free Open Source Software.
 * [Performous](https://github.com/performous/performous) - [Site](https://performous.org/)
   * An open-source music and rhythm game.
   * GNU GPLv2 or later
+
+## Graphics
+
+* [Stunning](https://github.com/grantcarthew/data-stunning)
+  * Stunningly beautiful photos and images from around the wed.
+  * [Various](https://github.com/grantcarthew/data-stunning/blob/master/LICENSE.md)
 
 ## Web Server
 

@@ -9,6 +9,8 @@ My list of Free Open Source Software.
 * [Education](#education)
 * [Games](#games)
 * [Graphics](#graphics)
+* [Monitoring](#monitoring)
+* [Security](#security)
 * [Web Server](#web-server)
 * [Web Apps](#web-apps)
 * [Virtual](#virtual)
@@ -18,6 +20,9 @@ My list of Free Open Source Software.
 * [bmon](https://github.com/tgraf/bmon)
   * Bandwidth monitor and rate estimator.
   * MIT License
+* [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - [Site](https://mistertea.github.io/EternalTerminal/)
+  * Re-Connectable secure remote shell.
+  * Apache License Version 2.0
 * [nettop](https://github.com/Emanem/nettop) - [Site](http://nettop.youlink.org/)
   * A simple process/network usage report for Linux.
   * GNU General Public License v3.0
@@ -61,6 +66,18 @@ My list of Free Open Source Software.
 * [Stunning](https://github.com/grantcarthew/data-stunning)
   * Stunningly beautiful photos and images from around the wed.
   * [Various](https://github.com/grantcarthew/data-stunning/blob/master/LICENSE.md)
+
+## Monitoring
+
+* [Stacer](https://github.com/oguzhaninan/Stacer) - [Site](https://oguzhaninan.github.io/Stacer-Web/)
+  * Linux System Optimizer and Monitoring.
+  * MIT License
+
+## Security
+
+* [Spoilerwall](https://github.com/infobyte/spoilerwall)
+  * Spoilerwall introduces a brand new concept in the field of network hardening. Avoid being scanned by spoiling movies on all your ports!
+  * No license yet
 
 ## Web Server
 

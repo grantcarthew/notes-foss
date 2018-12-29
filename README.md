@@ -39,6 +39,9 @@ My list of Free Open Source Software.
 * [jsonstore](https://github.com/bluzi/jsonstore) - [Site](https://www.jsonstore.io/)
   * jsonstore offers a free and secured JSON-based cloud datastore for small projects.
   * MIT License
+* [rqlite](https://github.com/rqlite/rqlite) - [Site](http://www.philipotoole.com/tag/rqlite/)
+  * The lightweight, distributed relational database built on SQLite.
+  * MIT License
 
 ## Education
 

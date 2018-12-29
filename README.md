@@ -4,28 +4,18 @@ My list of Free Open Source Software.
 
 ## Categories
 
-* [Command](#command)
 * [Database](#database)
 * [Education](#education)
 * [Games](#games)
 * [Graphics](#graphics)
 * [Monitoring](#monitoring)
+* [Network](#network)
 * [Security](#security)
+* [Tools](#tools)
 * [Web Server](#web-server)
 * [Web Apps](#web-apps)
 * [Virtual](#virtual)
 
-## Command
-
-* [bmon](https://github.com/tgraf/bmon)
-  * Bandwidth monitor and rate estimator.
-  * MIT License
-* [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - [Site](https://mistertea.github.io/EternalTerminal/)
-  * Re-Connectable secure remote shell.
-  * Apache License Version 2.0
-* [nettop](https://github.com/Emanem/nettop) - [Site](http://nettop.youlink.org/)
-  * A simple process/network usage report for Linux.
-  * GNU General Public License v3.0
 
   
 ## Database
@@ -76,11 +66,30 @@ My list of Free Open Source Software.
   * Linux System Optimizer and Monitoring.
   * MIT License
 
+## Network
+
+* [bmon](https://github.com/tgraf/bmon)
+  * Bandwidth monitor and rate estimator.
+  * MIT License
+* [nettop](https://github.com/Emanem/nettop) - [Site](http://nettop.youlink.org/)
+  * A simple process/network usage report for Linux.
+  * GNU General Public License v3.0
+
+
 ## Security
 
 * [Spoilerwall](https://github.com/infobyte/spoilerwall)
   * Spoilerwall introduces a brand new concept in the field of network hardening. Avoid being scanned by spoiling movies on all your ports!
   * No license yet
+
+## Tools
+
+* [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - [Site](https://mistertea.github.io/EternalTerminal/)
+  * Re-Connectable secure remote shell.
+  * Apache License Version 2.0
+* [Rufus](https://github.com/pbatard/rufus) - [Site](https://rufus.ie/en_IE.html)
+  * The Reliable USB Formatting Utility.
+  * GNU General Public License v3.0
 
 ## Web Server
 

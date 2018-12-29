@@ -84,12 +84,15 @@ My list of Free Open Source Software.
 
 ## Web Server
 
-* [Redbird](https://github.com/OptimalBits/redbird)
-  * A modern reverse proxy for node.
-  * BSD 2-Clause "Simplified" License.
 * [Caddy](https://github.com/mholt/caddy) - [Site](https://caddyserver.com/)
   * Fast, cross-platform HTTP/2 web server with automatic HTTPS.
   * Apache License 2.0
+* [here](https://github.com/vivaxy/here)
+  * A node.js local static server.
+  * MIT License
+* [Redbird](https://github.com/OptimalBits/redbird)
+  * A modern reverse proxy for node.
+  * BSD 2-Clause "Simplified" License.
 * [strapi](https://github.com/strapi/strapi) - [Site](https://strapi.io/)
   * Open source Node.js Headless CMS to easily build customisable APIs.
   * MIT License

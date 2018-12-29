@@ -4,6 +4,7 @@ My list of Free Open Source Software.
 
 ## Categories
 
+* [Command](#command)
 * [Database](#database)
 * [Education](#education)
 * [Games](#games)
@@ -11,6 +12,16 @@ My list of Free Open Source Software.
 * [Web Server](#web-server)
 * [Web Site](#web-site)
 
+## Command
+
+* [bmon](https://github.com/tgraf/bmon)
+  * Bandwidth monitor and rate estimator.
+  * MIT License
+* [nettop](https://github.com/Emanem/nettop) - [Site](http://nettop.youlink.org/)
+  * A simple process/network usage report for Linux.
+  * GNU General Public License v3.0
+
+  
 ## Database
 
 * [FoundationDB](https://github.com/apple/foundationdb) - [Site](https://www.foundationdb.org/)

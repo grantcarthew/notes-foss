@@ -87,6 +87,9 @@ My list of Free Open Source Software.
 * [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - [Site](https://mistertea.github.io/EternalTerminal/)
   * Re-Connectable secure remote shell.
   * Apache License Version 2.0
+* [Rclone](https://github.com/ncw/rclone) - [Site](https://rclone.org/)
+  * Rsync for cloud storage.
+  * MIT License
 * [Rufus](https://github.com/pbatard/rufus) - [Site](https://rufus.ie/en_IE.html)
   * The Reliable USB Formatting Utility.
   * GNU General Public License v3.0

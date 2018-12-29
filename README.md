@@ -4,6 +4,7 @@ My list of Free Open Source Software.
 
 ## Categories
 
+* [Communication](#communication)
 * [Database](#database)
 * [Education](#education)
 * [Games](#games)
@@ -16,7 +17,11 @@ My list of Free Open Source Software.
 * [Web Apps](#web-apps)
 * [Virtual](#virtual)
 
+## Communication
 
+* [Synapse](https://github.com/matrix-org/synapse) - [Site](https://matrix.org/blog/home/)
+  * Matrix reference homeserver. Matrix is an open network for secure, decentralized communication.
+  * Apache License 2.0
   
 ## Database
 
@@ -29,6 +34,9 @@ My list of Free Open Source Software.
 * [jsonstore](https://github.com/bluzi/jsonstore) - [Site](https://www.jsonstore.io/)
   * jsonstore offers a free and secured JSON-based cloud datastore for small projects.
   * MIT License
+* [Metabase](https://github.com/metabase/metabase) - [Site]
+  * The simplest, fastest way to get business intelligence and analytics to everyone in your company.
+  * GNU Affero General Public License
 * [rqlite](https://github.com/rqlite/rqlite) - [Site](http://www.philipotoole.com/tag/rqlite/)
   * The lightweight, distributed relational database built on SQLite.
   * MIT License

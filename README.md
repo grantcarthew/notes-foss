@@ -72,6 +72,9 @@ My list of Free Open Source Software.
 * [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE)
   * DUNE, REINVENTED.
   * GNU General Public License v2.0
+* [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - [Site](https://openrct2.io/)
+  * An open source re-implementation of RollerCoaster Tycoon 2.
+  * GNU General Public License v3.0
 * [Performous](https://github.com/performous/performous) - [Site](https://performous.org/)
   * An open-source music and rhythm game.
   * GNU GPLv2 or later

@@ -7,6 +7,7 @@ My list of Free Open Source Software.
 * [Audio](#audio)
 * [Communication](#communication)
 * [Database](#database)
+* [Development](#development)
 * [Education](#education)
 * [Games](#games)
 * [Graphics](#graphics)
@@ -49,6 +50,12 @@ My list of Free Open Source Software.
   * GNU Affero General Public License
 * [rqlite](https://github.com/rqlite/rqlite) - [Site](http://www.philipotoole.com/tag/rqlite/)
   * The lightweight, distributed relational database built on SQLite.
+  * MIT License
+
+## Development
+
+* [Visual Studio Code](https://github.com/Microsoft/vscode) - [Site](https://code.visualstudio.com/)
+  * Microsoft's open source, cross platform, integrated development environment.
   * MIT License
 
 ## Education

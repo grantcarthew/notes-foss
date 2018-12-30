@@ -75,6 +75,9 @@ My list of Free Open Source Software.
 * [Performous](https://github.com/performous/performous) - [Site](https://performous.org/)
   * An open-source music and rhythm game.
   * GNU GPLv2 or later
+* [SuperTuxKart](https://github.com/supertuxkart/stk-code) - [Site](https://supertuxkart.net/)
+  * A free kart racing game. It focuses on fun and not on realistic kart physics.
+  * GNU General Public License v3.0
 
 ## Graphics
 

@@ -34,7 +34,7 @@ My list of Free Open Source Software.
 * [jsonstore](https://github.com/bluzi/jsonstore) - [Site](https://www.jsonstore.io/)
   * jsonstore offers a free and secured JSON-based cloud datastore for small projects.
   * MIT License
-* [Metabase](https://github.com/metabase/metabase) - [Site]
+* [Metabase](https://github.com/metabase/metabase) - [Site](https://metabase.com/)
   * The simplest, fastest way to get business intelligence and analytics to everyone in your company.
   * GNU Affero General Public License
 * [rqlite](https://github.com/rqlite/rqlite) - [Site](http://www.philipotoole.com/tag/rqlite/)

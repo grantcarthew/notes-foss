@@ -4,6 +4,7 @@ My list of Free Open Source Software.
 
 ## Categories
 
+* [Audio](#audio)
 * [Communication](#communication)
 * [Database](#database)
 * [Education](#education)
@@ -16,6 +17,12 @@ My list of Free Open Source Software.
 * [Web Server](#web-server)
 * [Web Apps](#web-apps)
 * [Virtual](#virtual)
+
+## Audio
+
+* [LMMS](https://github.com/LMMS/lmms) - [Site](https://lmms.io/)
+  * Cross-platform music production software.
+  * GNU General Public License v2.0
 
 ## Communication
 

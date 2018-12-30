@@ -154,6 +154,9 @@ My list of Free Open Source Software.
 * [Octopus](https://github.com/livechat/octopus)
   * Internal wiki with diagrams for software and product teams.
   * MIT License
+* [Wiki.js](https://github.com/Requarks/wiki) - [Site](https://wiki.js.org/)
+  * A modern, lightweight and powerful wiki app built on Node.js.
+  * GNU Affero General Public License v3.0
 
 ## Virtual
 

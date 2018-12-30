@@ -32,6 +32,9 @@ My list of Free Open Source Software.
   
 ## Database
 
+* [Azure Data Studio](https://github.com/Microsoft/azuredatastudio)
+  * Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
+  * Microsoft Azure Data Studio License
 * [FoundationDB](https://github.com/apple/foundationdb) - [Site](https://www.foundationdb.org/)
   * FoundationDB - the open source, distributed, transactional key-value store.
   * Apache License 2.0

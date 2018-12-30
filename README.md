@@ -93,6 +93,9 @@ My list of Free Open Source Software.
 
 ## Monitoring
 
+* [graylog](https://github.com/Graylog2/graylog2-server) - [Site](https://www.graylog.org/)
+  * Free and open source log management.
+  * GNU General Public License v3.0
 * [Stacer](https://github.com/oguzhaninan/Stacer) - [Site](https://oguzhaninan.github.io/Stacer-Web/)
   * Linux System Optimizer and Monitoring.
   * MIT License

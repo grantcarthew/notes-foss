@@ -57,6 +57,9 @@ My list of Free Open Source Software.
 
 ## Development
 
+* [Kubernetes](https://github.com/kubernetes/kubernetes) - [Site](https://kubernetes.io/)
+  * Production-Grade Container Scheduling and Management.
+  * Apache License 2.0
 * [Visual Studio Code](https://github.com/Microsoft/vscode) - [Site](https://code.visualstudio.com/)
   * Microsoft's open source, cross platform, integrated development environment.
   * MIT License

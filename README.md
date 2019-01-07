@@ -120,7 +120,7 @@ My list of Free Open Source Software.
 
 * [Spoilerwall](https://github.com/infobyte/spoilerwall)
   * Spoilerwall introduces a brand new concept in the field of network hardening. Avoid being scanned by spoiling movies on all your ports!
-  * No license yet
+  * GNU General Public License v3.0
 
 ## Tools
 

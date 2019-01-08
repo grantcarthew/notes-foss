@@ -21,6 +21,9 @@ My list of Free Open Source Software.
 
 ## Audio
 
+* [AdblockRadio](https://github.com/adblockradio/adblockradio) - [Site](https://www.adblockradio.com/en/)
+  * An adblocker for live radio streams and podcasts. Machine learning meets Shazam.
+  * Mozilla Public License 2.0
 * [LMMS](https://github.com/LMMS/lmms) - [Site](https://lmms.io/)
   * Cross-platform music production software.
   * GNU General Public License v2.0

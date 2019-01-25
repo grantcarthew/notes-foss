@@ -45,6 +45,9 @@ My list of Free Open Source Software.
 * [GraphEngine](https://github.com/Microsoft/GraphEngine) - [Site](https://www.graphengine.io/)
   * Serving big graphs in real-time.
   * MIT License
+* [InfluxDB](https://github.com/influxdata/influxdb) - [Site](https://www.influxdata.com/)
+  * InfluxDB is a Scalable datastore for metrics, events, and real-time analytics.
+  * MIT License
 * [jsonstore](https://github.com/bluzi/jsonstore) - [Site](https://www.jsonstore.io/)
   * jsonstore offers a free and secured JSON-based cloud datastore for small projects.
   * MIT License

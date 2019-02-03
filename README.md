@@ -175,7 +175,11 @@ My list of Free Open Source Software.
 
 ## Virtual
 
+* [Firecracker](https://github.com/firecracker-microvm/firecracker) - [Site](https://firecracker-microvm.github.io/)
+  * Secure and fast microVMs for serverless computing.
+  * Apache License 2.0
 * [rkt](https://github.com/rkt/rkt)
   * rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
   * Apache License 2.0
+
 

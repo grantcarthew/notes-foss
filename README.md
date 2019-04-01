@@ -39,6 +39,9 @@ My list of Free Open Source Software.
 * [Azure Data Studio](https://github.com/Microsoft/azuredatastudio)
   * Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
   * Microsoft Azure Data Studio License
+* [CockroachDB](https://github.com/cockroachdb/cockroach) - [Site](https://www.cockroachlabs.com/)
+  * The open source, cloud-native SQL database.
+  * Apache Public License 2.0 (APL), CockroachDB Community License (CCL), the MIT license, and BSD-style licenses.
 * [FoundationDB](https://github.com/apple/foundationdb) - [Site](https://www.foundationdb.org/)
   * FoundationDB - the open source, distributed, transactional key-value store.
   * Apache License 2.0

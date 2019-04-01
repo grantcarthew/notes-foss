@@ -60,6 +60,9 @@ My list of Free Open Source Software.
 * [rqlite](https://github.com/rqlite/rqlite) - [Site](http://www.philipotoole.com/tag/rqlite/)
   * The lightweight, distributed relational database built on SQLite.
   * MIT License
+* [Vitess](https://github.com/vitessio/vitess) - [Site](https://vitess.io/)
+  * A database clustering system for horizontal scaling of MySQL.
+  * Apache License 2.0
 
 ## Development
 

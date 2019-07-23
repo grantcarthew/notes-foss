@@ -20,7 +20,6 @@ Interesting and useful Node.js Modules.
 
 The following list of web servers is in order of performance. See the [performance tests](https://github.com/the-benchmarker/web-frameworks) for more details:
 
-* [Polka](https://github.com/lukeed/polka) ([Polkadot](https://github.com/lukeed/polkadot))
- - Polka is an extremely minimal, highly performant Express.js alternative.
+* [Polka](https://github.com/lukeed/polka) ([Polkadot](https://github.com/lukeed/polkadot)) - Polka is an extremely minimal, highly performant Express.js alternative.
 * [Fastify](https://www.fastify.io/) - Fast and low overhead web framework, for Node.js.
 * [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js.

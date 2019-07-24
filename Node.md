@@ -30,3 +30,7 @@ The following list of web servers is in order of performance. See the [performan
 * [Jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 * [Polly.JS](https://netflix.github.io/pollyjs/) - Record, replay, and stub HTTP interactions.
 * [mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server) - Spinning up mongod in memory for fast tests.
+
+## Remoting
+
+* [Veyon - Virtual Eye On Networks](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management.

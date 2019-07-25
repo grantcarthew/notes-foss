@@ -75,6 +75,9 @@ My list of Free Open Source Software.
 * [Visual Studio Code](https://github.com/Microsoft/vscode) - [Site](https://code.visualstudio.com/)
   * Microsoft's open source, cross platform, integrated development environment.
   * MIT License
+* [Flutter](https://github.com/flutter/flutter) - [Site](https://flutter.dev/)
+  * Flutter is Google’s portable UI toolkit for building beautiful, natively-compiled applications for mobile, web, and desktop from a single codebase.
+  * Custom Permissive License
 
 ## Education
 
@@ -108,6 +111,9 @@ My list of Free Open Source Software.
 * [Stunning](https://github.com/grantcarthew/data-stunning)
   * Stunningly beautiful photos and images from around the wed.
   * [Various](https://github.com/grantcarthew/data-stunning/blob/master/LICENSE.md)
+* [Feather](https://github.com/feathericons/feather) - [Site](https://feathericons.com/)
+  * Simply beautiful open source icons
+  * MIT License
 
 ## Monitoring
 

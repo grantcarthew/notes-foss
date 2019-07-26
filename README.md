@@ -154,6 +154,9 @@ My list of Free Open Source Software.
 * [Rufus](https://github.com/pbatard/rufus) - [Site](https://rufus.ie/en_IE.html)
   * The Reliable USB Formatting Utility.
   * GNU General Public License v3.0
+* [Graylog](https://github.com/Graylog2/graylog2-server) - [Site](https://www.graylog.org/)
+  * Free and open source log management.
+  * GNU General Public License v3.0
 
 ## Web Server
 

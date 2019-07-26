@@ -33,7 +33,7 @@ My list of Free Open Source Software.
 
 ## Communication
 
-* [Synapse](https://github.com/matrix-org/synapse) - [Site](https://matrix.org/blog/home/)
+* [Synapse](https://github.com/matrix-org/synapse) - [Site](https://matrix.org/)
   * Matrix reference homeserver. Matrix is an open network for secure, decentralized communication.
   * Apache License 2.0
   

@@ -27,6 +27,9 @@ My list of Free Open Source Software.
 * [LMMS](https://github.com/LMMS/lmms) - [Site](https://lmms.io/)
   * Cross-platform music production software.
   * GNU General Public License v2.0
+* [MuseScore](https://github.com/musescore/MuseScore) - [Site](https://musescore.org/)
+  * Music notation and composition software.
+  * GNU General Public License version 2
 
 ## Communication
 

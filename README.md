@@ -158,21 +158,6 @@ My list of Free Open Source Software.
   * Free and open source log management.
   * GNU General Public License v3.0
 
-## Web Server
-
-* [Caddy](https://github.com/mholt/caddy) - [Site](https://caddyserver.com/)
-  * Fast, cross-platform HTTP/2 web server with automatic HTTPS.
-  * Apache License 2.0
-* [here](https://github.com/vivaxy/here)
-  * A node.js local static server.
-  * MIT License
-* [Redbird](https://github.com/OptimalBits/redbird)
-  * A modern reverse proxy for node.
-  * BSD 2-Clause "Simplified" License.
-* [strapi](https://github.com/strapi/strapi) - [Site](https://strapi.io/)
-  * Open source Node.js Headless CMS to easily build customisable APIs.
-  * MIT License
-
 ## Web Apps
 
 * [Airborn](https://github.com/airbornio/airborn) - [Site](https://www.airborn.io/)
@@ -190,6 +175,27 @@ My list of Free Open Source Software.
 * [Wiki.js](https://github.com/Requarks/wiki) - [Site](https://wiki.js.org/)
   * A modern, lightweight and powerful wiki app built on Node.js.
   * GNU Affero General Public License v3.0
+
+## Web Front-End
+
+* [Foundation](https://github.com/zurb/foundation-sites) - [Site](https://foundation.zurb.com/)
+  * The most advanced responsive front-end framework in the world.
+  * MIT License
+
+## Web Server
+
+* [Caddy](https://github.com/mholt/caddy) - [Site](https://caddyserver.com/)
+  * Fast, cross-platform HTTP/2 web server with automatic HTTPS.
+  * Apache License 2.0
+* [here](https://github.com/vivaxy/here)
+  * A node.js local static server.
+  * MIT License
+* [Redbird](https://github.com/OptimalBits/redbird)
+  * A modern reverse proxy for node.
+  * BSD 2-Clause "Simplified" License.
+* [strapi](https://github.com/strapi/strapi) - [Site](https://strapi.io/)
+  * Open source Node.js Headless CMS to easily build customisable APIs.
+  * MIT License
 
 ## Virtual
 

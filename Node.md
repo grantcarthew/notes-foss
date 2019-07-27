@@ -4,8 +4,9 @@ Interesting and useful Node.js Modules.
 
 ## Utilities
 
-* [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes.
+* [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 * [dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services.
+* [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes.
 * [XState](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
 
 ## Distributed Processing

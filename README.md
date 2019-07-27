@@ -91,6 +91,9 @@ My list of Free Open Source Software.
 
 ## Games
 
+* [Minetest](https://github.com/minetest/minetest) - [Site](https://www.minetest.net/)
+  * Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting.
+  * Multiple Licenses - Permissive
 * [openage](https://github.com/SFTtech/openage) - [Site](https://openage.sft.mx/]
   * Free (as in freedom) open source clone of the Age of Empires II engine.
   * GNU General Public License Version 3 or later

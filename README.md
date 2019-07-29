@@ -16,6 +16,7 @@ My list of Free Open Source Software.
 * [Productivity](#productivity)
 * [Security](#security)
 * [Tools](#tools)
+* [Video](#video)
 * [Virtual](#virtual)
 * [Web Apps](#web-apps)
 * [Web Front-End](#web-front-end)
@@ -213,6 +214,12 @@ My list of Free Open Source Software.
 * [strapi](https://github.com/strapi/strapi) - [Site](https://strapi.io/)
   * Open source Node.js Headless CMS to easily build customisable APIs.
   * MIT License
+
+## Video
+
+* [OBS Studio](https://github.com/obsproject/obs-studio) - [Site](https://obsproject.com/)
+  * Free and open source software for live streaming and screen recording.
+  * GNU General Public License v2.0
 
 ## Virtual
 

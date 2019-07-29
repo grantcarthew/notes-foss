@@ -63,6 +63,9 @@ My list of Free Open Source Software.
 * [KubeDB](https://github.com/kubedb) - [Site](https://kubedb.com/)
   * Making running production-grade databases easy on Kubernetes.
   * Apache License 2.0
+* [M3](https://github.com/m3db/m3) -[Site](https://m3db.io/)
+  * The fully open source metrics platform built on M3DB, a distributed timeseries database.
+  * Apache License 2.0
 * [Metabase](https://github.com/metabase/metabase) - [Site](https://metabase.com/)
   * The simplest, fastest way to get business intelligence and analytics to everyone in your company.
   * GNU Affero General Public License

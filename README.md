@@ -184,6 +184,9 @@ My list of Free Open Source Software.
 * [fossurl](https://github.com/bauripalash/fossurl)
   * Your Own Url Shortner Without any fancy server side processing and support for custom url.
   * MIT License
+* [hexo](https://github.com/hexojs/hexo) - [Site](https://hexo.io/)
+  * A fast, simple & powerful blog framework, powered by Node.js.
+  * MIT License
 * [Octopus](https://github.com/livechat/octopus)
   * Internal wiki with diagrams for software and product teams.
   * MIT License

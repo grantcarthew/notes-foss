@@ -193,12 +193,18 @@ My list of Free Open Source Software.
 
 ## Web Front-End
 
-* [Foundation](https://github.com/zurb/foundation-sites) - [Site](https://foundation.zurb.com/)
-  * The most advanced responsive front-end framework in the world.
-  * MIT License
 * [ag-Grid](https://github.com/ag-grid/ag-grid) - [Site](https://www.ag-grid.com/)
   * Advanced Data Grid / Data Table.
   * MIT and Commercial
+* [Foundation](https://github.com/zurb/foundation-sites) - [Site](https://foundation.zurb.com/)
+  * The most advanced responsive front-end framework in the world.
+  * MIT License
+* [Mithril](https://github.com/MithrilJS/mithril.js) -[Site](https://mithril.js.org/)
+  * A JavaScript Framework for Building Brilliant Applications.
+  * MIT License
+* [Vue.js](https://github.com/vuejs/vue) -[Site](https://vuejs.org/)
+  * The Progressive JavaScript Framework.
+  * MIT License
 
 ## Web Server
 

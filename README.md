@@ -184,6 +184,9 @@ My list of Free Open Source Software.
 * [Airborn](https://github.com/airbornio/airborn) - [Site](https://www.airborn.io/)
   * Airborn is a service that lets you create and store documents in the browser using Open Web Apps.
   * GNU Affero General Public License v3.0
+* [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - [Site](https://apostrophecms.org/)
+  * A CMS framework for Node.js that supports in-context editing, schema-driven content types, flexible widgets, and much more.
+  * MIT License
 * [CMS](https://github.com/chrisdiana/cms.js) - [Site](http://chrisdiana.github.io/cms.js/)
   * Client-Side JavaScript Site Generator.
   * MIT License
@@ -205,6 +208,9 @@ My list of Free Open Source Software.
 * [ag-Grid](https://github.com/ag-grid/ag-grid) - [Site](https://www.ag-grid.com/)
   * Advanced Data Grid / Data Table.
   * MIT and Commercial
+* [Editor.js]() - [Site](https://editorjs.io/)
+  * A block-styled editor with clean JSON output.
+  * Apache License 2.0
 * [Foundation](https://github.com/zurb/foundation-sites) - [Site](https://foundation.zurb.com/)
   * The most advanced responsive front-end framework in the world.
   * MIT License

@@ -40,6 +40,9 @@ My list of Free Open Source Software.
 * [Synapse](https://github.com/matrix-org/synapse) - [Site](https://matrix.org/)
   * Matrix reference homeserver. Matrix is an open network for secure, decentralized communication.
   * Apache License 2.0
+* [Mumble](https://github.com/mumble-voip/mumble) - [Site](https://www.mumble.info/)
+  * Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming. )
+  * Custom Permissive
   
 ## Database
 
@@ -151,6 +154,9 @@ My list of Free Open Source Software.
 * [Mark Text](https://github.com/marktext/marktext) - [Site](https://marktext.app/)
   * A simple and elegant markdown editor, available for Linux, macOS and Windows.
   * MIT License
+* [Trilium Notes](https://github.com/zadam/trilium)
+  * Build your personal knowledge base with Trilium Notes.
+  * GNU Affero General Public License v3.0
 
 ## Security
 
@@ -202,10 +208,10 @@ My list of Free Open Source Software.
 * [Foundation](https://github.com/zurb/foundation-sites) - [Site](https://foundation.zurb.com/)
   * The most advanced responsive front-end framework in the world.
   * MIT License
-* [Mithril](https://github.com/MithrilJS/mithril.js) -[Site](https://mithril.js.org/)
+* [Mithril](https://github.com/MithrilJS/mithril.js) - [Site](https://mithril.js.org/)
   * A JavaScript Framework for Building Brilliant Applications.
   * MIT License
-* [Vue.js](https://github.com/vuejs/vue) -[Site](https://vuejs.org/)
+* [Vue.js](https://github.com/vuejs/vue) - [Site](https://vuejs.org/)
   * The Progressive JavaScript Framework.
   * MIT License
 

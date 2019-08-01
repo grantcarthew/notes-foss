@@ -5,6 +5,7 @@ My list of Free Open Source Software.
 ## Categories
 
 * [Audio](#audio)
+* [Cloud](#cloud)
 * [Communication](#communication)
 * [Database](#database)
 * [Development](#development)
@@ -34,6 +35,12 @@ My list of Free Open Source Software.
 * [MuseScore](https://github.com/musescore/MuseScore) - [Site](https://musescore.org/)
   * Music notation and composition software.
   * GNU General Public License version 2
+
+## Cloud
+
+* [GRR](https://github.com/google/grr) - [Site](https://grr-doc.readthedocs.io/)
+  * GRR Rapid Response: remote live forensics for incident response 
+  * Apache License 2.0
 
 ## Communication
 

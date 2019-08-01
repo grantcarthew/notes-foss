@@ -214,6 +214,9 @@ My list of Free Open Source Software.
 * [Editor.js]() - [Site](https://editorjs.io/)
   * A block-styled editor with clean JSON output.
   * Apache License 2.0
+* [FlexSearch](https://github.com/nextapps-de/flexsearch)
+  * Next-Generation full text search library for Browser and Node.js 
+  * Apache License 2.0
 * [Foundation](https://github.com/zurb/foundation-sites) - [Site](https://foundation.zurb.com/)
   * The most advanced responsive front-end framework in the world.
   * MIT License

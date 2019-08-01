@@ -28,10 +28,11 @@ The following list of web servers is in order of performance. See the [performan
 
 ## Testing
 
-* [Node.js Assert](https://nodejs.org/api/assert.html) - Assertion functions for verifying invariants.
 * [Jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
-* [Polly.JS](https://netflix.github.io/pollyjs/) - Record, replay, and stub HTTP interactions.
 * [mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server) - Spinning up mongod in memory for fast tests.
+* [Node.js Assert](https://nodejs.org/api/assert.html) - Assertion functions for verifying invariants.
+* [Polly.JS](https://netflix.github.io/pollyjs/) - Record, replay, and stub HTTP interactions.
+* [randexp.js](https://github.com/fent/randexp.js) - Create random strings that match a given regular expression. 
 
 ## Remoting
 

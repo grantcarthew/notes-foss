@@ -38,7 +38,7 @@ My list of Free Open Source Software.
 
 ## Cloud
 
-* [GRR](https://github.com/google/grr) - [Site](https://grr-doc.readthedocs.io/)
+* [GRR](https://github.com/google/grr) - [Docs](https://grr-doc.readthedocs.io/)
   * GRR Rapid Response: remote live forensics for incident response 
   * Apache License 2.0
 
@@ -140,6 +140,9 @@ My list of Free Open Source Software.
 
 ## Monitoring
 
+* [Graphite-Web](https://github.com/graphite-project/graphite-web) - [Docs](http://graphite.readthedocs.io/)
+  * A highly scalable real-time graphing system.
+  * Apache License 2.0
 * [graylog](https://github.com/Graylog2/graylog2-server) - [Site](https://www.graylog.org/)
   * Free and open source log management.
   * GNU General Public License v3.0

@@ -185,6 +185,9 @@ My list of Free Open Source Software.
 * [Graylog](https://github.com/Graylog2/graylog2-server) - [Site](https://www.graylog.org/)
   * Free and open source log management.
   * GNU General Public License v3.0
+* [PyFunceble](https://github.com/funilrys/PyFunceble) - [Site](https://pyfunceble.github.io/)
+  * The tool to check the availability or syntax of domains, IPv4 or URL.
+  * MIT License
 * [Rclone](https://github.com/ncw/rclone) - [Site](https://rclone.org/)
   * Rsync for cloud storage.
   * MIT License

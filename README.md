@@ -59,7 +59,7 @@ My list of Free Open Source Software.
 * [CockroachDB](https://github.com/cockroachdb/cockroach) - [Site](https://www.cockroachlabs.com/)
   * The open source, cloud-native SQL database.
   * Apache Public License 2.0 (APL), CockroachDB Community License (CCL), the MIT license, and BSD-style licenses.
-* [etcd](https://etcd.io/)
+* [etcd](https://github.com/etcd-io/etcd) - [Site](https://etcd.io/)
   * A distributed, reliable key-value store for the most critical data of a distributed system.
   * Apache License 2.0
 * [FoundationDB](https://github.com/apple/foundationdb) - [Site](https://www.foundationdb.org/)

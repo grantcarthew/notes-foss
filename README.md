@@ -141,6 +141,33 @@ My list of Free Open Source Software.
   * Simply beautiful open source icons
   * MIT License
 
+https://undraw.co/illustrationsAn open-source illustrations website, where you can change the colors of the illustrations online before downloading.
+
+https://www.manypixels.co/gallery/ManyPixels offer free svg illustrations with the possibility to customize the color as well.
+
+https://illlustrations.co/100 beautiful illustrations, designed by Vijay Verma during a 100 days of illustrations challenge.
+
+https://isometric.online/This website offers a searchable list of nice and free isometric illustrations.
+
+https://www.glazestock.com/Glaze offers a lot of royalty-free high quality illustrations.
+
+https://lukaszadam.com/illustrationsLukasz Adam is an independent web designer and offers a lot of free svg icon sets on his website.
+
+https://www.humaaans.comHumaaans have a variety of different svgs of people. They also offer each element of the humans separately to be able to create your own.
+
+https://woobro.design/Woobro has some very detailed high-quality svgs for some specific use cases.
+
+https://fresh-folk.com/Similar to Humaaans, Fresh Folk offers people for self composing with a different style.
+
+https://www.opendoodles.com/Open Doodles provide a bunch of illustrations in a sketchy style.
+
+
+https://game-icons.net/ ( /u/Asmor )
+
+https://pimpmydrawing.com/ ( /u/stoned_guerilla )
+
+https://www.flaticon.com/ ( /u/lower-violins )
+
 ## Monitoring
 
 * [Graphite-Web](https://github.com/graphite-project/graphite-web) - [Docs](http://graphite.readthedocs.io/)
